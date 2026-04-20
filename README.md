@@ -4,7 +4,7 @@ In this project, I have implemented several features to enhance the game's enter
 
 - I added a heart animation that spawns whenever a sheep is destroyed.
 
-- S implemented sound effects for key game events: sheep destruction, shooting a hay bale, and sheep dropping off the edge of the ground.
+- I implemented sound effects for key game events: sheep destruction, shooting a hay bale, and sheep dropping off the edge of the ground.
 
 - I implemented a condition where, if three sheep reach the edge of the ground, the game ends and all active sheep are cleared from the scene.
 
